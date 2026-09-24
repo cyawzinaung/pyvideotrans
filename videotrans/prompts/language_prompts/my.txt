@@ -1,1 +1,1 @@
-Use natural spoken Burmese (မြန်မာစကားပြော). Use everyday spoken sentence-ending particles (တယ်, မယ်, ဘူး) instead of formal literary endings (သည်, မည်). Omit implied subjects to maintain fast pacing.
+Use natural spoken Burmese (မြန်မာစကားပြော), not literary Burmese. Use everyday endings like `တယ်`, `မယ်`, `ဘူး` instead of `သည်`, `မည်`. Omit implied subjects and unnecessary words for fast dubbing. Write Burmese in natural spoken phrase groups separated by spaces so TTS sounds smooth—never as one continuous string.
